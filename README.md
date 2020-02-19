@@ -1,3 +1,12 @@
+<h1 align="center"; >Curso Starter Rocketseat - React. 💻</h1>
+<p align="center">Projeto do curso starter de React da RocketSeat.</p>
+
+<p>Este projeto utiliza api para exibir tecnologias e suas descrições.</p>
+
+![](/github/mode1.png)
+
+![](/github/mode3.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
